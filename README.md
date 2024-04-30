@@ -13,7 +13,7 @@ Dual and single supply simulation files are available.
 
 ### Single supply
 ![sigma_delta_sch_single](https://github.com/teddokano/sigma-delta_modulation_sim/blob/main/readme_img/sch_single.png)
-![sigma_delta_waveform_single](https://github.com/teddokano/sigma-delta_modulation_sim/blob/main/readme_img/waveform_signle.png)
+![sigma_delta_waveform_single](https://github.com/teddokano/sigma-delta_modulation_sim/blob/main/readme_img/waveform_single.png)
 
 # References
 - [Delta-Sigma ADC](https://www.allaboutcircuits.com/textbook/digital/chpt-13/delta-sigma-adc/) 
